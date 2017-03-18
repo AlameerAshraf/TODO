@@ -1,0 +1,148 @@
+.ncomp{
+    min-height: 300px;
+}
+.comp{
+    min-height: 300px;
+}
+.Remove-btn{
+    position: relative;
+    right: -518px;
+    top: -10px;
+}
+.Label-Title{
+    position: relative;
+    right: 20px;
+    color: blue;
+    font-size: 18px;
+}
+#Run-time-title{
+    position: relative;
+    background-color:rgba(0,0,0,0) !important;
+    top: -35px;
+    right:-7px;
+    width:300px;
+    display: none;
+}
+#Run-time-data{
+    position: relative;
+    background-color:rgba(0,0,0,0) !important;
+    top: -35px;
+    right: -7px;
+    width:300px;
+    display: none;
+}
+#Update{
+    position: relative;
+
+    display: none;
+}
+#Cancel{
+    display: none;
+}
+.alert alert-info ,br{
+    display: none;
+}
+
+.login-state{
+    width: 80%;
+    height: 250px;
+    position: relative;
+    top : 30px;
+    left: 100px;
+    display: block;
+}
+.Data-Details{
+    width: 80%;
+    height: 250px;
+    position: relative;
+    top : 30px;
+    left: 110px;
+    display: none;
+}
+.Data-Details .Remove-btn{
+    position: relative;
+    right: -850px;
+    top: -10px;
+}
+.login-state .login-text-un{
+     position: relative;
+     width:350px;
+     left: 250px;
+     top: 50px;
+}
+.login-state .login-text-pass{
+     position: relative;
+     width:350px;
+     left: 250px;
+     top: 70px;
+}
+.login-state .login-text-go{
+     position: relative;
+     width:350px;
+     left: 250px;
+     top: 90px;
+}
+.hide-it{
+    display: none;
+}
+.Btn-popup{
+    position: relative;
+    left: 120px;
+    }
+.popup{
+    margin: 0;
+    position: relative;
+    right: 20px;
+    display: none;
+    }
+.IsItDeletable{
+    margin: 0;
+    position: relative;
+    right: 20px;
+    display: none;
+    }
+    .Yes-IsItDeletable{
+    position: relative;
+    left: 70px;
+    top: 30px;
+    }
+    .No-IsItDeletable{
+    position: relative;
+    left: 115px;
+    top: 30px;
+    
+    }
+ .Textbox-task-title{
+    position:relative;
+    width: 200px;
+    }
+.Textbox-task-data{
+    position:relative;
+    width: 200px;
+    top: 10px;
+    }
+.Textbox-task-state{
+    position:relative;
+    width: 200px;
+    top: 15px;
+    }
+.popup-main{
+    position: relative;
+    display: none;
+    top: 20px;
+    right: 7px;
+    }
+.Btn-popup-add{
+    position: relative;
+    top: 30px;
+    }
+#Title{
+    width: 450px;
+    }
+#Data{
+    width: 450px;
+    }
+.ui-icon-closethick{
+    position: relative;
+    top: 19px;
+}
